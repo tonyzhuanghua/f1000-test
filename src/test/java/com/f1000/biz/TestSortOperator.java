@@ -22,7 +22,7 @@ public class TestSortOperator {
     @Test
     public void rank_by_journal_score() {
 
-        List<Journal> journals = new ArrayList<>();
+        List<Journal> journals = new ArrayList();
 
         Journal journalA = new Journal();
         journalA.setJournalName("Journal A");
@@ -54,7 +54,7 @@ public class TestSortOperator {
     @Test
     public void rank_by_journal_score_and_name() {
 
-        List<Journal> journals = new ArrayList<>();
+        List<Journal> journals = new ArrayList();
 
 
         Journal journalA = new Journal();
@@ -87,7 +87,7 @@ public class TestSortOperator {
     @Test
     public void rank_by_score_excluding_review_journals(){
 
-        List<Journal> journals = new ArrayList<>();
+        List<Journal> journals = new ArrayList();
 
         Journal journalA = new Journal();
         journalA.setJournalName("Journal A");

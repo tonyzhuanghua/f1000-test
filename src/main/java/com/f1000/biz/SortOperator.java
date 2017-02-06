@@ -12,7 +12,7 @@ import com.f1000.services.rank.Rank;
  */
 public class SortOperator<T> {
 
-    private List<T> items = new ArrayList<>();
+    private List<T> items = new ArrayList();
 
     private SortOperator(List<T> journalList){
         items = new ArrayList<T>(journalList);

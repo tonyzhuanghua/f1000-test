@@ -8,7 +8,7 @@ import java.util.List;
  * Created by zhuanghua on 2017/2/6.
  */
 public class RankImpl implements Rank<Journal> {
-    @Override
+
     public void doRanking(List<Journal> journals) {
 
         for(Journal journal : journals){
