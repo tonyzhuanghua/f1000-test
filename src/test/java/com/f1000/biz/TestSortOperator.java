@@ -85,7 +85,7 @@ public class TestSortOperator {
     }
 
     @Test
-    public void filter_out_all_review_journals_and_sort_by_name(){
+    public void rank_by_score_excluding_review_journals(){
 
         List<Journal> journals = new ArrayList<>();
 
