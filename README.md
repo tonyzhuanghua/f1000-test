@@ -5,9 +5,9 @@ This is a practical exercise to test your programming and design skills. You sho
 implement the following features using Java. There is no need to persist any data to a
 database or to build a user interface. You should prove your code works by unit testing it to
 cover the features listed below. Automating your unit testing with Maven or Ant would be
-preferable.
+preferable.\n
 You have been asked to add a new feature to F1000 which provides the ability to rank
-journals.
+journals.\n
 Feature: Rank journals
 In order to highlight the journals which have the biggest impact in a given year
 As a user
