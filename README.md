@@ -1,5 +1,5 @@
 # f1000-test
-Exercise from F1000
+Exercise from F1000 （我使用了facade模式）
 
 
 This is a practical exercise to test your programming and design skills. 
